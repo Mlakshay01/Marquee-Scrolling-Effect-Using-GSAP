@@ -1,10 +1,6 @@
 # Marquee-Scrolling-Effect-Using-GSAP
 A smooth, infinite scrolling marquee effect powered by GSAP. The animation switches directions based on the user's scroll, creating a seamless, looping experience. Easily customizable and perfect for web projects.
 
-# Marquee Animation with GSAP
-
-This project implements an infinite scrolling marquee effect using GSAP (GreenSock Animation Platform) for smooth and performant animations. The marquee scrolls left and right based on the user's scroll direction.
-
 ## Features
 
 - Infinite scrolling for a smooth, continuous marquee effect.
